@@ -1,0 +1,12 @@
+# VRPD-RS-TW — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: Gurobi requires a separate licence.
+
+gurobipy>=11.0
+numpy>=1.26
+scipy>=1.12
+osmnx>=1.9
+networkx>=3.3
+folium>=0.17
+shapely>=2.0
